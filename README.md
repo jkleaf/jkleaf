@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-🕹️ Github statistics <br/>
-<img src="./profile/github_language_usage.png" width="250" />
+<img src="./profile/github_language_usage.png" width="300"/>
 </div>
 
 
