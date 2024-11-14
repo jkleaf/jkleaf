@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./profile/github_language_usage.png" style="zoom: 75%;" />
+<div align='center'>
+🕹️ Github statistics <br/>
+<img src="./profile/github_language_usage.png" width="250" />
+</div>
+
+
+
