@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./profile/github_language_usage.png" style="zoom: 50%;" />
+<img src="./profile/github_language_usage.png" style="zoom: 75%;" />
